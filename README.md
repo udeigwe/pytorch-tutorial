@@ -1,1 +1,2 @@
-My name is Lawrence Udeigwe and I am trying to learn how to use Pytorch. 
+A little project for learning how to use Pytorch
+
